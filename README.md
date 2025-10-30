@@ -1,1 +1,1 @@
-# Recursive-Digit-Sum-ALGO-MEDIUM
+# Recursive-Digit-Sum-ALGO-MEDIUM.This solution calculates the super digit by first summing the digits of the initial string, multiplying by the repetition count k, then repeatedly summing the digits of the result until a single digit is obtained, efficiently handling large numbers through digit-by-digit processing rather than direct concatenation.
